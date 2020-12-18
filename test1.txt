@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is D40C-184E
+
+ Directory of D:\My Projects
+
+18-12-2020  23:30    <DIR>          .
+18-12-2020  23:30    <DIR>          ..
+18-12-2020  23:30                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  464,583,454,720 bytes free
